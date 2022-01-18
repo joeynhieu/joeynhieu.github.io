@@ -57,10 +57,8 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "Git/GitHub"
       ]
     }
   ],
@@ -83,54 +81,15 @@
   ],
   "work": [
     {
-      "company": "UH Manoa",
-      "position": "Video Operations Center(VOC) Operator",
+      "company": "UH Information Technology Services",
+      "position": "Video Operations Operator//VOC",
       "website": "",
       "startDate": "2019",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "summary": "Aids in monitoring of University and State wide broadcasting, assists in processing and preparation of equipment loans to UH faculty/staff.",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
+        "Answer phone and email responses in regards to broadcasting and video files"
       ]
     }
   ],
