@@ -62,11 +62,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2023)",
+      "area": "Management Information Systems (expected Spring, 2023)",
       "studyType": "B.B.A",
       "startDate": "2019",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.39",
       "courses": [ 
         "Principles of Marketing // BUS 312",
         "Programming Application System // ITM 352",
@@ -79,10 +79,10 @@
   "work": [
     {
       "company": "UH Information Technology Services",
-      "position": "Video Operations Operator//VOC",
+      "position": "Video Operations Operator I // VOC",
       "website": "",
-      "startDate": "2019",
-      "endDate": "Present",
+      "startDate": "October 2019",
+      "endDate": "October 2022",
       "summary": "Aids in monitoring of University and State wide broadcasting, assists in processing and preparation of equipment loans to UH faculty/staff.",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
