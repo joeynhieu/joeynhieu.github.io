@@ -44,7 +44,7 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C++",
+        "C/C++",
         "Java",
         "Javascript",
         "HTML/CSS",
@@ -57,7 +57,9 @@
       "keywords": [
         "MacOS",
         "Windows",
-        "Git/GitHub"
+        "Git/GitHub",
+        "Microsoft Office Applications",
+        "Adobe Creative Cloud Applications"
       ]
     }
   ],
@@ -73,12 +75,25 @@
         "Computer and Data Systems // ITM 354",
         "Contemporary Asia // ASAN 312",
         "Project Management // ITM 321",
-        "Strategic Management // BUS 345",
+        "Strategic Management // BUS 345"
       ]
     }
   ],
   "work": [
     {
+      "company": "Windward Community College",
+      "position": "Peer Tutor - ICS 111 Intro to Computer Science I",
+      "website": "",
+      "startDate": "October 2022",
+      "endDate": "Present",
+      "summary": "Aids in monitoring of University and State wide broadcasting, assists in processing and preparation of equipment loans to UH faculty/staff.",
+      "highlights": [
+        "Meets with assigned participant(s) on a regular scheduled basis for the purpose of tutoring in course materials and study skills ",
+  	    "Meets with instructors as needed to discuss the needs of tutee(s)",
+    	  "Attends monthly tutor meetings",
+        "Completes required reports and evaluations"
+      ]
+
       "company": "UH Information Technology Services",
       "position": "Video Operations Operator I // VOC",
       "website": "",
@@ -86,8 +101,12 @@
       "endDate": "October 2022",
       "summary": "Aids in monitoring of University and State wide broadcasting, assists in processing and preparation of equipment loans to UH faculty/staff.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses in regards to broadcasting and video files"
+        "Performed monitoring and troubleshooting of the University’s statewide HD videoconferencing system",
+        "Performed ingesting and routing of analog/digital content for broadcast on the University’s cable channel",
+        "Performed monitoring of analog/digital audio and video quality in the University's digital playback facility",
+        "Created trouble log entries into online database",
+        "Assisted Electronics Technicians and Engineers in maintenance, wiring and construction of new and existing ITV classrooms",
+        "When available provided assistance to video production team"
       ]
     }
   ],
