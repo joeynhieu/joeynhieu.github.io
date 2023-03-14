@@ -23,25 +23,22 @@
       {
         "network": "LinkedIn",
         "username": "joey-nhieu",
-        "url": "www.linkedin.com/in/joey-nhieu"
+        "url": "http://linkedin.com/in/joey-nhieu"
       }
     ]
   },
   "interests": [
     {
       "name": "Game Development",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Website Development",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Data Analytics",
-      "keywords": [
-      ]
+      "keywords": []
     }
   ],
   "skills": [
@@ -76,7 +73,7 @@
       "startDate": "2019",
       "endDate": "Present",
       "gpa": "3.39",
-      "courses": [ 
+      "courses": [
         "Computer and Data Systems // ITM 354",
         "Contemporary Asia // ASAN 312",
         "Project Management // ITM 321",
@@ -94,8 +91,8 @@
       "summary": "Aids in monitoring of University and State wide broadcasting, assists in processing and preparation of equipment loans to UH faculty/staff.",
       "highlights": [
         "Meets with assigned participant(s) on a regular scheduled basis for the purpose of tutoring in course materials and study skills ",
-  	    "Meets with instructors as needed to discuss the needs of tutee(s)",
-    	  "Attends monthly tutor meetings",
+        "Meets with instructors as needed to discuss the needs of tutee(s)",
+        "Attends monthly tutor meetings",
         "Completes required reports and evaluations"
       ]
     },
