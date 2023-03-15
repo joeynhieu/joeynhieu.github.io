@@ -10,7 +10,7 @@ labels:
   - Javascript
   - HTML
   - GitHub
-summary: A responsive website that .
+summary: A responsive website that simulates an online website.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
