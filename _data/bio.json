@@ -68,26 +68,45 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems (expected Spring, 2023)",
+      "area": "Management Information Systems",
       "studyType": "B.B.A",
-      "startDate": "2019",
-      "endDate": "Present",
+      "startDate": "May 2019",
+      "endDate": "May 2023",
       "gpa": "3.39",
       "courses": [
-        "Computer and Data Systems // ITM 354",
-        "Contemporary Asia // ASAN 312",
-        "Project Management // ITM 321",
-        "Strategic Management // BUS 345"
+        "-"
       ]
     }
   ],
   "work": [
     {
+      "company": "Hawaiian Airlines",
+      "position": "Associate Information Technology Analyst - IT Revenue, Revenue Accounting",
+      "website": "",
+      "startDate": "September 2023",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "-"
+      ]
+    },
+    {
+      "company": "Hawaiian Airlines",
+      "position": "Undergraduate Information Technology Analyst - IT Revenue, Revenue Accounting",
+      "website": "",
+      "startDate": "June 2023",
+      "endDate": "September 2023",
+      "summary": "",
+      "highlights": [
+        "-"
+      ]
+    },
+    {
       "company": "Windward Community College",
       "position": "Peer Tutor - ICS 111 Intro to Computer Science I",
       "website": "",
       "startDate": "October 2022",
-      "endDate": "Present",
+      "endDate": "May 2023",
       "summary": "Aids in monitoring of University and State wide broadcasting, assists in processing and preparation of equipment loans to UH faculty/staff.",
       "highlights": [
         "Meets with assigned participant(s) on a regular scheduled basis for the purpose of tutoring in course materials and study skills ",
